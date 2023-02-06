@@ -1,0 +1,41 @@
+{
+
+    "skills": [
+        {
+            "title":"JavaScript",
+            "image": "https://cdn.simpleicons.org/JavaScript"
+        },
+        {
+            "title":"React",
+            "image": "https://cdn.simpleicons.org/React"
+        },
+        {
+            "title":"Vue.js",
+            "image": "https://cdn.simpleicons.org/Vue.js"
+        },
+        {
+            "title":"Node.js",
+            "image": "https://cdn.simpleicons.org/Node.js"
+        },
+        {
+            "title":"Android",
+            "image": "https://cdn.simpleicons.org/Android"
+        },
+        {
+            "title":"Apache Cordova",
+            "image": "https://cdn.simpleicons.org/ApacheCordova"
+        },
+        {
+            "title":"GNU Bash",
+            "image": "https://cdn.simpleicons.org/GNUBash"
+        },
+        {
+            "title":"Bootstrap",
+            "image": "https://cdn.simpleicons.org/Bootstrap"
+        },
+        {
+            "title":"C",
+            "image": "https://cdn.simpleicons.org/C"
+        }
+    ]
+}
